@@ -39,20 +39,20 @@ List the ready features here:
 ## Setup
 
 #### Backend  
-##### To start backend you need to do :  
+#####  To start backend you need to do :  
 
  `cd /backend`  
  `dotnet build`  
  `dotnet run`  
 
 #### Frontend 
-##### To start frontend you need to do :
+#####  To start frontend you need to do :
 
  `cd /frontend`  
  `npm install`  
  `npm start`  
 ###### Runs the app in the development mode.  
-###### Open http://localhost:3000 to view it in the browser.  
+######  Open http://localhost:3000 to view it in the browser.  
 
 
 
