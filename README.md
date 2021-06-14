@@ -45,7 +45,7 @@ cd /backend
 dotnet build
 dotnet run
 
--Frontend 
+- Frontend 
 To start frontend you need to do :
 
 cd /frontend
