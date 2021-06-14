@@ -38,21 +38,21 @@ List the ready features here:
 
 ## Setup
 
-#### Backend
-##### To start backend you need to do :
+#### Backend  
+##### To start backend you need to do :  
 
- `cd /backend`
- `dotnet build`
- `dotnet run`
+ `cd /backend`  
+ `dotnet build`  
+ `dotnet run`  
 
 #### Frontend 
 ##### To start frontend you need to do :
 
- `cd /frontend`
- `npm install`
- `npm start`
-###### Runs the app in the development mode.
-###### Open http://localhost:3000 to view it in the browser.
+ `cd /frontend`  
+ `npm install`  
+ `npm start`  
+###### Runs the app in the development mode.  
+###### Open http://localhost:3000 to view it in the browser.  
 
 
 
@@ -65,9 +65,9 @@ Project is: _in progress_
 
 ## Contact
 Created by:
- - [@piotrwrzodak](https://github.com/piotrwrzodak)
- - [@jaroslawzbaski](https://github.com/JarekZb)
- - [@dominiklamparski](https://github.com/dlamparski)
+  [@piotrwrzodak](https://github.com/piotrwrzodak)  
+  [@jaroslawzbaski](https://github.com/JarekZb)  
+  [@dominiklamparski](https://github.com/dlamparski)  
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
