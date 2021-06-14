@@ -64,7 +64,7 @@ Project is: _in progress_
 
 
 ## Contact
-Created by:
+Created by:  
   [@piotrwrzodak](https://github.com/piotrwrzodak)  
   [@jaroslawzbaski](https://github.com/JarekZb)  
   [@dominiklamparski](https://github.com/dlamparski)  
