@@ -39,14 +39,14 @@ List the ready features here:
 ## Setup
 
 - Backend
-To start backend you need to do :
+- To start backend you need to do :
 
 cd /backend
 dotnet build
 dotnet run
 
 - Frontend 
-To start frontend you need to do :
+- To start frontend you need to do :
 
 cd /frontend
 npm install
