@@ -1,6 +1,6 @@
 # Service Manager 2021
-> A webapp using  C#,ASP.NET Core 5, React and node.js to make work easier for computer service.
-> Live demo [_here_](http://46.41.149.61:5000/). 
+> A webapp using  C#,ASP.NET Core 5, React and node.js to make work easier for computer service.  
+> ### Live demo [_here_](http://46.41.149.61:5000/). 
 
 ## Table of Contents
 * [General Info](#general-information)
