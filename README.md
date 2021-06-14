@@ -65,9 +65,9 @@ Project is: _in progress_
 
 ## Contact
 Created by:
- [@piotrwrzodak](https://github.com/piotrwrzodak)
- [@jaroslawzbaski(https://github.com/JarekZb)
- [@dominiklamparski](https://github.com/dlamparski)
+ - [@piotrwrzodak](https://github.com/piotrwrzodak)
+ - [@jaroslawzbaski(https://github.com/JarekZb)
+ - [@dominiklamparski](https://github.com/dlamparski)
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
